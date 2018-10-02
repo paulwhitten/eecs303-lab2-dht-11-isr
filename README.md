@@ -21,7 +21,7 @@ gcc dht-11-minimal-isr.c -o dht-11-minimal-isr -lwiringPi
 
 Run by executing:
 ```
-sudo dht-11-minimal-isr
+sudo ./dht-11-minimal-isr
 ```
 
 
