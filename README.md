@@ -9,6 +9,8 @@ from the application.
 dht11-timings.xlsx shows the interpretation
 of one reading.
 
+The timings stored in the `risingEdgeTimes` array can be used with the DHT-11 spec to interpret the humidity, temperature, and checksum bytes.
+
 Clone the repo on the pi by running:
 ```
 git clone https://github.com/paulwhitten/eecs303-lab2-dht-11-isr.git
